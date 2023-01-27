@@ -1,2 +1,2 @@
 # Audio-classification-with-Pytorch
-Audio Signal Classification
+Use Pytorch to identify the audio signal. The dataset is UrbanSound8K, which is the best dataset for beginners in this domain. I have constructed the model however I havent trained it due to the limit computational resources. But I replicate the tensorflow model on a repo which is used to train on a different dataset and gained an impressive accuracy ~96%. So, check it out
