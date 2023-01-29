@@ -14,7 +14,7 @@ Step2: Visualize some random samples in our dataset (as always)
 ![image](https://user-images.githubusercontent.com/92131994/215331102-b0d3089c-04c5-41d7-80b3-676d98037f0d.png)
 
 Step3: Build a mini VGG-19 like CNN model(where conv layer sizes gradually get smaller)
-![image](https://user-images.githubusercontent.com/92131994/215331378-edf2f7e5-1fbd-4fff-8d1c-545c03496bd0.png)
+![image](https://user-images.githubusercontent.com/92131994/215331839-74c1fc1a-fada-4a64-b98d-afc4268c52d1.png)
 
 Step4: Train the model using Adam optimizer and CE Loss. 
 P/s: Due to limit computational resources. I'll stop here
