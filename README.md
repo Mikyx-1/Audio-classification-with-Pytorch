@@ -19,3 +19,6 @@ Step3: Build a mini VGG-19 like CNN model(where conv layer sizes gradually get s
 Step4: Train the model using Adam optimizer and CE Loss. 
 P/s: Due to limit computational resources. I'll stop here
 ![image](https://user-images.githubusercontent.com/92131994/215331424-81f0595f-270e-4f66-a22d-74ca5d14eb36.png)
+
+https://github.com/Mikyx-1/Audio-classification-with-Pytorch/assets/92131994/d4245ea6-91c5-4080-86d5-f6d1ca3789f0
+
